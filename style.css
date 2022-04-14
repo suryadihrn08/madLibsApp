@@ -1,0 +1,36 @@
+
+body {
+	background: #C0C0C0;
+    font-size: 30px;
+    font-family: 'Fjalla One';
+}
+
+h1, h2, h3 { 
+    text-align: center;
+}
+p {
+    text-align: justify;
+}
+input {
+	font-size:20px;
+}
+
+button {
+	margin: 30px;
+	padding: 5px;
+	background: red;
+	color: white;
+	font-size: 16px;
+	border-radius: 3px solid;
+}
+
+span {
+	color: red;
+	background: white;
+	border-bottom: 2px solid white;
+}
+
+.gbr {
+    width: 50px;
+    height: 50px;
+}
